@@ -5,7 +5,7 @@ from scipy.special import factorial
 
 print("=" * 80)
 print("TALLER: DISTRIBUCIONES DE POISSON Y NORMAL")
-print("Alexander Morales Urzola")
+print("Alexander Morales")
 print("=" * 80)
 
 # ============================================================================
@@ -381,13 +381,3 @@ plt.savefig('Taller4_parte1.png', dpi=300, bbox_inches='tight')
 plt.savefig('Taller4_parte2.png', dpi=300, bbox_inches='tight')
 plt.show()
 
-print("\n" + "=" * 80)
-print("✅ TALLER COMPLETADO")
-print("=" * 80)
-print("\nArchivos generados:")
-print("  • Taller4_parte1.png - Figura completa")
-print("  • Taller4_parte2.png - Figura completa (copia)")
-print("\nDistribuciones analizadas:")
-print("  ✓ 2 ejercicios de Poisson")
-print("  ✓ 2 ejercicios de Normal")
-print("=" * 80)
