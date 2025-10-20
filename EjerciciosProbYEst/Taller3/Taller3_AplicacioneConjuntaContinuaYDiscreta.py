@@ -365,13 +365,3 @@ plt.savefig('ejercicios_prob_conjunta_completo.png', dpi=300, bbox_inches='tight
 plt.show()
 
 print("\n" + "=" * 80)
-print("✅ EJERCICIOS COMPLETADOS")
-print("=" * 80)
-print("\nArchivo generado:")
-print("  • ejercicios_prob_conjunta_completo.png")
-print("\nEjercicios procesados:")
-print("  ✓ Distribución Discreta (I.R.C)")
-print("  ✓ Distribución Continua (Empresa de Juguetes)")
-print("  ✓ Probabilidades conjuntas y marginales")
-print("  ✓ Verificaciones y cálculos detallados")
-print("=" * 80)
