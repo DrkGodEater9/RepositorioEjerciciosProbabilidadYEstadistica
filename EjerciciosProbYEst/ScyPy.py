@@ -13,6 +13,6 @@ print("Valor p:", p_value)
 
 # Interpretación
 if p_value < 0.05:
-    print("✅ Hay una diferencia significativa entre los grupos.")
+    print("Hay una diferencia significativa entre los grupos.")
 else:
-    print("❌ No hay diferencia significativa entre los grupos.")
+    print("No hay diferencia significativa entre los grupos.")
