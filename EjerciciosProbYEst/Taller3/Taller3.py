@@ -5,7 +5,7 @@ from mpl_toolkits.mplot3d import Axes3D
 
 print("=" * 80)
 print("TALLER #2 - PROBABILIDAD Y ESTADÍSTICA")
-print("Alexander Morales Urzola - 2024101011")
+print("Alexander Morales - 2024101011")
 print("=" * 80)
 
 # ============================================================================
